@@ -2,7 +2,6 @@
 #include <iostream>
 
 long parse_int(std::string number) {
-    for()
     return 0;
 }
 
